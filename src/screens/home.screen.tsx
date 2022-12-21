@@ -13,6 +13,7 @@ import {
 } from 'react-native';
 import FastImage from 'react-native-fast-image';
 import { TextInput } from 'react-native-gesture-handler';
+import 'react-native-get-random-values';
 import { v4 as uuidv4 } from 'uuid';
 import { BrandText } from '../components/HeaderBack/BrandText';
 import { FirebaseModel } from '../constant';
