@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "allowJs": true,
+    "isolatedModules": true,
+    "jsx": "react-native",
+    "lib": ["dom", "es2018"],
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "target": "esnext",
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    /* Strict Type-Checking Options */
+    "strict": true,
+    "types": ["node"],
+    "suppressImplicitAnyIndexErrors": true,
+    /* Additional Checks */
+    "noFallthroughCasesInSwitch": true,
+    /* Module Resolution Options */
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "importsNotUsedAsValues": "preserve"
+  },
+  "exclude": ["node_modules", "__generated__"],
+  "include": ["**/*.ts", "**/*.tsx", "**/*.js", "src/screens/home/component"]
+}

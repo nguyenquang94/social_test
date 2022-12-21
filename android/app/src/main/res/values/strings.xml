@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social Test</string>
+    <string name="facebook_app_id">2015805428642491</string>
+    <string name="facebook_client_token">7aad7e040e7d6595e369b8af7d5c542b</string>
+</resources>
